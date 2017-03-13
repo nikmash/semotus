@@ -5,7 +5,7 @@
     "version": "2.1.0",
     "dependencies": {
         "q": "1.x",
-        "supertype": "git://github.com/nikmash/supertype.git#"
+        "supertype": "git://github.com/nikmash/supertype.git#extended-templates-createProps-fix"
     },
     "devDependencies" : {
         "chai": "3.x",
